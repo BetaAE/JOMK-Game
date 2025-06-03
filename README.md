@@ -9,7 +9,7 @@
   <br>
   <a href="#"><img alt="undefined" src="https://badgen.net/badge/platform/android,ios,windows,macos?list=1"></a>
   <br>
-  <a href="https://github.com/HoangTrongMinhDuc/JMOK-Game/releases"><img alt="undefined" src="https://badgen.net/badge/release/android/green"></a>
+  <a href="https://github.com/betaae/JMOK-Game/releases"><img alt="undefined" src="https://badgen.net/badge/release/android/green"></a>
   <br><br><br>
 </p>
 
@@ -19,14 +19,13 @@
  
 
  + This game made and provided by: 
-    - HOANG TRONG MINH DUC (UI Designer, Programmer)
-    - NGUYEN DANG PHONG (Character Designer, Programmer)
-    - LE DINH TAM PHUNG (Character Designer, Programmer)
-    - VO THANH PHUONG (Character Designer, Programmer)
-    - DAO THI THIEN TAM (Team Leader, Character Designer, Programmer)
+    - Abdul Mueed (BAE – Build Automate Elevate)
+    - (UI Designer, Programmer)
+    - (Character Designer, Programmer)
+    - (Team Leader, Character Designer, Programmer)
 
 
- + Release time: 08/17/2018
+ + Release time: 04/17/2025
  + Version: alpha test 1.0
 </p>
 <br>
